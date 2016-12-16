@@ -1,0 +1,6 @@
+c:\users\ozcevik\documents\visual studio 2015\Projects\CelstoFahr\CelstoFahr\bin\Debug\CelstoFahr.exe.config
+c:\users\ozcevik\documents\visual studio 2015\Projects\CelstoFahr\CelstoFahr\bin\Debug\CelstoFahr.exe
+c:\users\ozcevik\documents\visual studio 2015\Projects\CelstoFahr\CelstoFahr\bin\Debug\CelstoFahr.pdb
+c:\users\ozcevik\documents\visual studio 2015\Projects\CelstoFahr\CelstoFahr\obj\Debug\CelstoFahr.csprojResolveAssemblyReference.cache
+c:\users\ozcevik\documents\visual studio 2015\Projects\CelstoFahr\CelstoFahr\obj\Debug\CelstoFahr.exe
+c:\users\ozcevik\documents\visual studio 2015\Projects\CelstoFahr\CelstoFahr\obj\Debug\CelstoFahr.pdb
